@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/huannvictor/landingPage/master/BALLERINI.svg"></h1> 
 
-See the final result at: <a href="">link aqui</a>
+See the final result at: <a href="https://huannvictor.github.io/landingPage/">link here</a>
 
 
 <h2 align="center">About the project: Lading Page, by Rafaella Ballerini</h2>
